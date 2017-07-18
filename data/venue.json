@@ -1,0 +1,50 @@
+{
+    "1" : {
+        "name": "Brabourne Stadium",
+        "location": "Mumbai, India"
+    },
+    "2" : {
+        "name": "Barabati Stadium",
+        "location": "Cuttack, India"
+    },
+    "3" : {
+        "name": "Sardar Patel Stadium",
+        "location": "Ahmedabad, India"
+    },
+    "4":{
+        "name": "M.Chinnaswamy Stadium",
+        "location": "Bengaluru, India"
+    },
+    "5" : {
+        "name": "Feroz Shah Kotla",
+        "location": "Delhi, India"
+    },
+    "6" :{
+        "name": "Rajiv Gandhi International Stadium",
+        "location": "Hyderabad, India"
+    },
+    "7" : {
+        "name": "JSCA International Stadium Complex",
+        "location": "Ranchi, India"
+    },
+    "8" :{
+        "name": "Punjab Cricket Association Stadium",
+        "location": "Mohali, India"
+    },
+    "9" : {
+        "name": "Eden Gardens",
+        "location": "Kolkata, India"
+    },
+    "10" : {
+        "name": "Sheikh Zayed Stadium",
+        "location": "Abu Dhabi, United Arab Emirates"
+    },
+    "11" : {
+        "name": "Sharjah Cricket Association Stadium",
+        "location": "Sharjah, United Arab Emirates"
+    },
+    "12" : {
+        "name": "Dubai International Cricket Stadium ",
+        "location": "Dubai, United Arab Emirates"
+    }
+}

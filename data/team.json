@@ -1,0 +1,34 @@
+{
+    "58": {
+        "name": "Chennai Super Kings",
+        "s_name": "CSK"
+    },
+    "59" :{
+        "name": "Royal Challengers Bangalore",
+        "s_name": "RCB"
+    },
+    "61" : {
+        "name": "Delhi Daredevils",
+        "s_name": "DD"
+    },
+    "62" : {
+        "name": "Mumbai Indians",
+        "s_name": "MI"
+    },
+    "63" : {
+        "name": "Kolkata Knight Riders",
+        "s_name": "KKR"
+    },
+    "64" : {
+        "name": "Rajasthan Royals",
+        "s_name": "RR"
+    },
+    "255" : {
+        "name": "Sunrisers Hyderabad",
+        "s_name": "SRH"
+    },
+    "65" : {
+        "name": "Kings XI Punjab",
+        "s_name": "KXIP"
+    }
+}

@@ -1,0 +1,78 @@
+body{
+  background: #F5F5F5;
+  height: 100%;
+}
+
+.container{
+width:100%;
+}
+
+.cards-container{
+width: 100%;
+height: 100%;
+}
+
+.venue-container, .team-container{
+  position: relative;
+  border: 1px solid #06A;
+  left: 4%;
+  margin-right: 10%;
+  margin-top: 40px;
+  border-radius: 4px;
+  height: min-height;
+}
+
+.filter-venue{
+position: relative;
+background: #06A;
+color: white;
+border: 1px solid #06A;
+height: 45px;
+}
+
+.filter-venue p{
+  padding: 10px;
+}
+
+.grouped-buttons{
+  padding: 18px;
+  font-size: 100%;
+  color: #696969;
+  font-family: 'Arial'; 
+}
+
+.cards-container{
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+.card-container{
+  margin-top:30px;
+  margin-left: 4%;
+  width: 370px;
+  border-radius: 6px;
+  border: 1px solid #87CEFA;
+  height: 140px;
+  background: white;
+  display: inline-block;
+
+}
+
+.card-header{
+  background: #87CEFA;
+  height:46px;
+  font-size: 14px;
+  color: #06A;
+}
+
+.card-header, .card-body{
+  padding: 15px;
+}
+
+.card-body a{
+  color: black;
+}
+
+a:hover{
+  text-decoration: none;
+}
